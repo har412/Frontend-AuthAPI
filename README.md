@@ -7,6 +7,6 @@
 - You can get an email with a token to reset password as well.
 
 ## Backend API 
-- Backend API documentation here https://authapi-7o27.onrender.com/docs/
-- Backend API Code : https://github.com/hary122/AuthAPI
+- Backend API documentation here https://auth-api-pu84.onrender.com/docs/
+- Backend API Code : https://github.com/har412/Auth-API
 
